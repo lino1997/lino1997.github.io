@@ -1,0 +1,51 @@
+﻿
+
+input[type=text], select {
+  width: 25%;
+  padding: 7px 6px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px #FFFFFF
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=text]:focus {
+  background-color: green;
+}
+
+input[type=submit] {
+  width: 15%;
+  background-color: #FDFDFDFFFFFF;
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: 3;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: ACACAC;
+  border: none;
+  color:black;
+  padding: 12px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+verde{
+	margin-left: 2cm;
+	font-size: 18pt;
+	color: green;
+}
+.margenes{
+	margin-left: 2cm
+	}
+.botones{
+	border: 2px solid yellow;
+  border-radius: 20px;
+}
+.cuadrados{
+	background-color: #3CBC8D;
+  	color: white;
+}
